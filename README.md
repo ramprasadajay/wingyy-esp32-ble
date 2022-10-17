@@ -31,11 +31,15 @@ Wingyy is a BLE device to control motor, read Air pressure and temperature, post
 
 ### Breadboard Model
 
-[![Watch the video](https://i9.ytimg.com/vi/Svz494yfnNE/mq2.jpg?sqp=CKij9JkG&rs=AOn4CLA0KAY4NhfFbKmvqbkNz7TYe8iK5Q)](https://youtu.be/Svz494yfnNE)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Svz494yfnNE
+" target="_blank"><img src="http://img.youtube.com/vi/Svz494yfnNE/0.jpg" 
+alt="WATCH VIDEO"/></a>
 
 ### Mobile App Demo
 
-[![Watch the video](https://i9.ytimg.com/vi/zm-k4Ea09go/mq2.jpg?sqp=CICo9JkG&rs=AOn4CLC7oe0VbeX5sORAEwDmDJhTRbt4Zg)](https://youtu.be/zm-k4Ea09go)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zm-k4Ea09go
+" target="_blank"><img src="http://img.youtube.com/vi/zm-k4Ea09go/0.jpg" 
+alt="WATCH VIDEO"/></a>
 
 ### Mobile App Screenshots
 
