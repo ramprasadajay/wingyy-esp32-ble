@@ -2,6 +2,8 @@
 
 Wingyy is a BLE device to control motor, read Air pressure and temperature, post data over BLE to read by a Mobile device.
 
+[<img src="./resource/IMG20221017155740-01.jpeg"/>](/resource/IMG20221017155740-01.jpeg)
+
 ### Client: Oleg Kuybeda, IP Solutions.
 
 ### Date of Start: Sep 19, 2022
