@@ -4,12 +4,6 @@ Wingyy is a BLE device to control motor, read Air pressure and temperature, post
 
 [<img src="./resource/IMG20221017155740-01.jpeg"/>](/resource/IMG20221017155740-01.jpeg)
 
-### Client: Oleg Kuybeda, IP Solutions.
-
-### Date of Start: Sep 19, 2022
-
-### Date of Completion: On Going
-
 ## Requirements:
 
 1. Hardware development based on ESP32 as main microcontroller
@@ -24,8 +18,6 @@ Wingyy is a BLE device to control motor, read Air pressure and temperature, post
 1. KiCAD 6 – for PCB layout design
 2. ESP-IDF – for firmware development
 3. Flutter – for mobile app development
-
-## Client’s Testimonial:
 
 ## Demo Video
 
